@@ -1,0 +1,34 @@
+{
+  "name": "thelaconnect-frontend",
+  "version": "1.0.0",
+  "description": "ThelaConnect - Frontend for Vendor-Supplier Connection Platform",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^2.2.6",
+    "@heroicons/react": "^2.2.0",
+    "@tailwindcss/forms": "^0.5.10",
+    "autoprefixer": "^10.4.21",
+    "axios": "^1.11.0",
+    "next": "^15.4.4",
+    "postcss": "^8.5.6",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-hot-toast": "^2.5.2",
+    "tailwindcss": "^4.1.11",
+    "js-cookie": "^3.0.5",
+    "date-fns": "^3.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "@types/react": "^19.1.8",
+    "@types/js-cookie": "^3.0.6",
+    "eslint": "^9.32.0",
+    "eslint-config-next": "^15.4.4",
+    "typescript": "^5.8.3"
+  }
+}
